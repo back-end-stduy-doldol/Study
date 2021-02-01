@@ -11,22 +11,33 @@
   - [ ] HTTP 1.1 vs HTTP/2 (Feat TCP, UDP, TLS)
   - [ ] Nginx vs Apache
 
+<br>
+
 - 2주차 : 21.02.09 ~ 21.02.15
   - [ ] Proxy vs Reverse Proxy
   - [ ] Virtual Machine vs Container
+
+<br>
 
 - 3주차 : 21.02.16 ~ 21.02.22
   - [ ] On Premise vs Cloud
   - [ ] Session vs Token vs Cookie
 
+<br>
+
 - 4주차 : 21.02.23 ~ 21.03.01
   - [ ] Docker Swarm vs Kubernetes vs Nomad
   - [ ] RDBMS vs NoSQL
+
+<br>
 
 - 5주차 : 21.03.02 ~ 21.03.08
   - [ ] Jenkins vs Github Action 
   - [ ] Ansible vs Terraform
 
+<br>
+
 - 6주차 : 21.03.09 ~ 21.03.15
   - [ ] REST API vs GraphQL
   - [ ] Zookeeper vs consul vs etcd (분산 코디네이터)
+
