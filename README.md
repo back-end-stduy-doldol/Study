@@ -17,8 +17,8 @@
 <br>
 
 - 2주차 : 21.02.09 ~ 21.02.15
-  - [ ] Proxy vs Reverse Proxy
-  - [ ] Virtual Machine vs Container
+  - [x] Proxy vs Reverse Proxy
+  - [x] Virtual Machine vs Container
 
 <br>
 
