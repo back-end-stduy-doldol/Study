@@ -23,8 +23,8 @@
 <br>
 
 - 3주차 : 21.02.16 ~ 21.02.22
-  - [ ] On Premise vs Cloud
-  - [ ] Session vs Token vs Cookie
+  - [x] On Premise vs Cloud
+  - [x] Session vs Token vs Cookie
 
 <br>
 
